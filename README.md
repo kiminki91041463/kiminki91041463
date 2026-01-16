@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**kiminki91041463/kiminki91041463** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 프론트엔드 엔지니어 김인기입니다.
 
-Here are some ideas to get you started:
+> **"웹도 앱도 TV도. 결국 유저에게 가치를 전달하기 위한 채널일 뿐입니다."**
+> 
+> 저는 개발자의 자기만족보다, **'팔리는 제품'**을 만들기 위해 고민합니다. 
+> 치열하게 고민하여 본질을 찾고, 빠르게 개발하여 가치를 증명하며, 결과는 느긋하게 기다릴 줄 아는 호흡을 지향합니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stacks
+
+---
+
+### 🚀 Experiences & Projects
+
+- **Dr.Tail (닥터테일)** | Frontend Engineer
+- **Global Travel Guide App** | 일본 여행 가이드 서비스 개발 및 운영
+- **SaaS for Indie Hackers** | 유저 피드백 워크플로우 자동화 도구 기획 및 개발
+
+---
+
+### 📫 Contact
+- **Email:** [이메일 주소를 입력해주세요]
+- **Blog:** [블로그 주소가 있다면 입력해주세요]
