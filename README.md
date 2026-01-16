@@ -12,8 +12,8 @@
 - **SideProjects**
   1. 번호를 추천하지않는 복권앱 : [복권은수학이다(Released)](https://apps.apple.com/kr/app/%EB%B3%B5%EA%B6%8C%EC%9D%80%EC%88%98%ED%95%99%EC%9D%B4%EB%8B%A4-%EB%B3%B5%EC%88%98-%EB%B2%88%ED%98%B8%EB%A5%BC-%EC%B6%94%EC%B2%9C%ED%95%98%EC%A7%80%EC%95%8A%EB%8A%94-%EB%B3%B5%EA%B6%8C%EC%95%B1/id6475639630)
   2. 도쿄지하철 가이드 : [DokiDoki(Coming Soon)](https://www.threads.com/@lottoismath/post/DSrVQCTidLY?hl=ko)
-  3. 피드백 -> Task.md : [Zzelly(Coming Soon)](https://www.morphprd.io/)
-- **SaaS for Indie Hackers** | 유저 피드백 워크플로우 자동화 도구 기획 및 개발
+  3. 유저 피드백을 TASK.md로 변환하는 Saas : [Zzelly(Coming Soon)](https://www.morphprd.io/)
+
 
 
 ### 🛠 Tech Stacks
