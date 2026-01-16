@@ -5,11 +5,6 @@
 - 개발자의 자기만족보다, 팔리는 제품을 만들기 위해 고민할 것. 
 - 항상 치열하게 고민하고, 빠르게 개발하며, 느긋하게 기다릴 것.
 
----
-
-### 🛠 Tech Stacks
-
---- TypeScript, Nextjs, View, React, ReactNative, Expo, TailwindCss, react-query, jotai, recoil
 
 ### 🚀 Experiences & Projects
 
@@ -20,7 +15,11 @@
   3. 피드백 -> Task.md : [Zzelly(Coming Soon)](https://www.morphprd.io/)
 - **SaaS for Indie Hackers** | 유저 피드백 워크플로우 자동화 도구 기획 및 개발
 
----
+
+### 🛠 Tech Stacks
+
+TypeScript, Nextjs, View, React, ReactNative, Expo, TailwindCss, react-query, jotai, recoil
+
 
 ### 📫 Contact
 - **Email:** [dlsrllsla@gmail.com]
